@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Varietes of Democracy (V-Dem)
+N;CHARSET=UTF-8:Varietes of Democracy (V-Dem);;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;Department of Political Science,University of Gothenbur
+ g Box 711;Gothenburg;;SE 405 30;Sweden
+EMAIL:contact@v-dem.net
+ORG;CHARSET=UTF-8:V-Dem Institute
+URL:https://v-dem.net/DemoComp/en
+END:VCARD
